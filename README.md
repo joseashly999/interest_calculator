@@ -12,16 +12,16 @@ The project was made in VS code. math is the only library needed for this projec
 ### Simple interest : *A=P(1+ r x t)*
 ### Compund interest: *A= P(1+r)^t*
 where, 
-A= total amount once the interest has been applied
-t= number of years the money is being invested
-r= interest rate divided by 100
-P= amount the user deposits
+*A= total amount once the interest has been applied
+*t= number of years the money is being invested
+*r= interest rate divided by 100
+*P= amount the user deposits
 
 
 ### Repayment : *ixP/(1-(1+i)^-n*
 where,
-P= present value of the house
-i= monthly interest rate
-n= time period over which the bond will be applied
+*P= present value of the house
+*i= monthly interest rate
+*n= time period over which the bond will be applied
 
 ## Note: Python equilalent of these equations are used in the project
