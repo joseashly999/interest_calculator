@@ -1,6 +1,6 @@
 # Financial Calculator for XYZ Bank
 ## Aim
-In this project I build a interest calculator for a small financial company 'XYZ'. The calculator allows its users to calculate the final amount, while making an investment and while taking a housing loan.  The user can choose the calculator they want at the initial stage. At the next stages the user has to input the interest rate and the period, based on which the total is calculated
+In this project I build an interest calculator for a small financial company 'XYZ'. The calculator allows it's users to calculate the final amount, while making an investment or  taking a housing loan.  The user can choose the calculator they want at the initial stage. At the next stages the user has to input the interest rate and the period, based on which the total is calculated
 
 ## Objective
 This project was made as part of practising the use of variables and control structures in python.
@@ -18,7 +18,7 @@ r= interest rate divided by 100
 P= amount the user deposits
 
 
-### repayment : *ixP/(1-(1+i)^-n*
+### Repayment : *ixP/(1-(1+i)^-n*
 where,
 P= present value of the house
 i= monthly interest rate
